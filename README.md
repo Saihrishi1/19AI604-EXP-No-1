@@ -49,6 +49,14 @@ fn main() {
 
 ## OUTPUT:
 
+```
+
+<img width="1096" height="531" alt="Screenshot 2025-09-19 112355" src="https://github.com/user-attachments/assets/4d866cdb-1af3-44a3-b97b-8dc49df63b5f" />
+
+<img width="1882" height="1034" alt="Screenshot 2025-09-19 111636" src="https://github.com/user-attachments/assets/da395bd6-1ce0-4e4c-9609-f339bbbecdcc" />
+
+```
+
 ## RESULT:
 
-
+Thus we have successfully installed Rust and Cargo tool and setup Rust to work in Visual Studio Code.
