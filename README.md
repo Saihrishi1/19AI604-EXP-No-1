@@ -1,9 +1,9 @@
 # Experiment 1 – Installation of Rust and Cargo Tool and Setting up Rust in VS Code Environment  
 
-<H3>ENTER YOUR NAME:</H3>  
-<H3>ENTER YOUR REGISTER NO:</H3>  
+<H3>ENTER YOUR NAME: Sai Hrishi M</H3>  
+<H3>ENTER YOUR REGISTER NO: 212224240140</H3>  
 <H3>EX.NO.1</H3>  
-<H3>DATE:</H3>  
+<H3>DATE: 16-10-2025</H3>  
 
 <H1 ALIGN =CENTER> Installation of Rust and Cargo Tool and Setting up Rust in VS Code Environment </H1>  
 
@@ -49,13 +49,16 @@ fn main() {
 
 ## OUTPUT:
 
-```
-
 <img width="1096" height="531" alt="Screenshot 2025-09-19 112355" src="https://github.com/user-attachments/assets/4d866cdb-1af3-44a3-b97b-8dc49df63b5f" />
+
 
 <img width="1882" height="1034" alt="Screenshot 2025-09-19 111636" src="https://github.com/user-attachments/assets/da395bd6-1ce0-4e4c-9609-f339bbbecdcc" />
 
-```
+
+<img width="1197" height="511" alt="Screenshot 2025-10-10 112849" src="https://github.com/user-attachments/assets/40faaa4d-da94-4f37-b247-645f922152f4" />
+
+
+<img width="744" height="245" alt="Screenshot 2025-10-10 115234" src="https://github.com/user-attachments/assets/03192cf4-fc5b-49b2-8a61-bfc7801a0804" />
 
 ## RESULT:
 
